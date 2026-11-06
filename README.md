@@ -1,2 +1,2 @@
-# RISE_OF_THE-TYCOON-v1-beta
+# absensi-sekolah-utama-v1-beta
 Developer : Team DDC
